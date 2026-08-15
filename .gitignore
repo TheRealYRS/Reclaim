@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+
+build/
+dist/
+installer_output/
+
+reclaim_output/
+smart_output/
+
+*.tmp
+*.log
+
+.vscode/
+.idea/
